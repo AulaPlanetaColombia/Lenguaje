@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-BC7671B05D13442C8E57054E4AB95450</identificador>
+  <loid>LE_09_05_CO_Recurso230</loid>
+  <titulo>Refuerza tu aprendizaje: La coma en incisos, vocativos y para elidir verbos</titulo>
+  <descripcion>Actividad para afianzar los conocimientos acerca de los usos de la coma
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>30</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>elidir verbos </concepto>
+    <concepto>incisos</concepto>
+    <concepto>usos de la coma</concepto>
+    <concepto>vocativo</concepto>
+    <concepto>coma</concepto>
+    <concepto>signos de puntuación</concepto>
+  </conceptos>
+</metadata>

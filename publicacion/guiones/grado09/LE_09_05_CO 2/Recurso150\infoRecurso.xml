@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-8672A96338E946CC951E7A68FF813987</identificador>
+  <loid>LE_09_05_CO_Recurso150</loid>
+  <titulo>La composición yuxtapuesta </titulo>
+  <descripcion>Actividad que permite distinguir los componentes de oraciones compuestas por yuxtaposición </descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>oración compuesta</concepto>
+    <concepto>yuxtaposición</concepto>
+    <concepto>oración compuesta por yuxtaposición</concepto>
+  </conceptos>
+</metadata>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-63D015A503D24FAD892AAE77FC781057</identificador>
+  <loid>LE_09_05_CO_Recurso190</loid>
+  <titulo>La coma en incisos, en vocativos y en la elisión del verbo</titulo>
+  <descripcion>Interactivo para explorar tres usos de la coma</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>40</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>aclaración</concepto>
+    <concepto>coma</concepto>
+    <concepto>elisión</concepto>
+    <concepto>elisión verbal</concepto>
+    <concepto>explicación</concepto>
+    <concepto>inciso</concepto>
+    <concepto>pausa</concepto>
+    <concepto>signo de puntuación</concepto>
+    <concepto>vocativo</concepto>
+    <concepto>coma en vocativos</concepto>
+    <concepto>coma en incisos</concepto>
+  </conceptos>
+</metadata>

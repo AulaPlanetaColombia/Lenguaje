@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-AB8C2F6AC57E43AA8C8E8A07D6F94275</identificador>
+  <loid>LE_09_05_CO_Recurso030</loid>
+  <titulo>Ortografía: los usos de la coma</titulo>
+  <descripcion>Actividad para reconocer dos casos de uso de la coma</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>15</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>coma</concepto>
+    <concepto>usos de la coma</concepto>
+    <concepto>coma en incisos</concepto>
+    <concepto>incisos</concepto>
+    <concepto>elisión del verbo</concepto>
+    <concepto>coma para elidir el verbo</concepto>
+    <concepto>signos de puntuación</concepto>
+  </conceptos>
+</metadata>

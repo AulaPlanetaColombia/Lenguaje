@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-45F1E049C2384E4287D10D597D6AB74E</identificador>
+  <loid>LE_09_05_CO_Recurso090</loid>
+  <titulo>Las características del arte latinoamericano después del Modernismo</titulo>
+  <descripcion>Actividad acerca de los rasgos del arte en el contexto del Posmodernismo
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>15</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_3_1</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>América Latina</concepto>
+    <concepto>arte</concepto>
+    <concepto>arte del Posmodernismo</concepto>
+    <concepto>arte latinoamericano</concepto>
+  </conceptos>
+</metadata>

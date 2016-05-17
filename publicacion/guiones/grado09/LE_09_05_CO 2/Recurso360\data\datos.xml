@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><mapa aprid="mapa"><copyright>(c) Editorial Planeta</copyright><version>1.0</version><botonMapaConceptual>mostrar</botonMapaConceptual><botonMapaMudo>ocultar</botonMapaMudo><botonMudo>0</botonMudo><objeto><ref>00</ref><texto>El informe científico</texto><hijos>10</hijos><padre /><siz>0</siz><negcur>000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>10</ref><texto /><hijos>20,21,22,23</hijos><padre>00</padre><siz>14</siz><negcur /><cen>1</cen><img /><audio /></objeto><objeto><ref>20</ref><texto>Literatura</texto><hijos>30</hijos><padre>10</padre><siz>0</siz><negcur>0000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>21</ref><texto>Gramática</texto><hijos>31</hijos><padre>10</padre><siz>0</siz><negcur>000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>22</ref><texto>Ortografía</texto><hijos>32</hijos><padre>10</padre><siz>0</siz><negcur>0000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>23</ref><texto>Comprensión y 
+producción textual</texto><hijos>33</hijos><padre>10</padre><siz>0</siz><negcur>000000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>30</ref><texto /><hijos>40</hijos><padre>20</padre><siz>0</siz><negcur /><cen>1</cen><img /><audio /></objeto><objeto><ref>40</ref><texto>La literatura 
+latinoamericana del
+posmodernismo</texto><hijos>50</hijos><padre>30</padre><siz>0</siz><negcur>000000000000000000000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>50</ref><texto>se propone</texto><hijos>60</hijos><padre>40</padre><siz>0</siz><negcur>0000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>60</ref><texto>· reflexionar sobre las
+  transformaciones técnicas del
+  mundo, de la mano del
+  capitalismo, y su influencia
+  negativa en la vida cotidiana
+· cuestionar la idea de progreso
+· profundizar en la búsqueda de
+  lo propio y lo local
+· rechazar el arte por el arte
+· realzar los valores de la
+  identidad latinoamericana</texto><hijos>70,71</hijos><padre>50</padre><siz>0</siz><negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>70</ref><texto>con autores como</texto><hijos>80</hijos><padre>60</padre><siz>0</siz><negcur>0000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>80</ref><texto>· César Vallejo
+· Evaristo Carriego
+· Luis Carlos López
+· Abraham Valdelomar
+· Horacio Quiroga</texto><hijos /><padre>70</padre><siz>0</siz><negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>71</ref><texto>con obras como</texto><hijos>81</hijos><padre>60</padre><siz>0</siz><negcur>00000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>81</ref><texto>· Los heraldos negros
+· Flor de arrabal
+· De mi villorrio
+· El vuelo de los cóndores
+· Cuentos de amor, de locura
+  y de muerte</texto><hijos /><padre>71</padre><siz>0</siz><negcur>1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>31</ref><texto /><hijos>41</hijos><padre>21</padre><siz>0</siz><negcur /><cen>1</cen><img /><audio /></objeto><objeto><ref>41</ref><texto>La oración compuesta
+por yuxtaposición</texto><hijos>51</hijos><padre>31</padre><siz>0</siz><negcur>00000000000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>51</ref><texto>se forma cuando</texto><hijos>61</hijos><padre>41</padre><siz>0</siz><negcur>000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>61</ref><texto>dos proposiciones
+sintácticamente
+independientes se unen sin
+que entre ellas haya un
+elemento de enlace</texto><hijos>72</hijos><padre>51</padre><siz>0</siz><negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>72</ref><texto>esas proposiciones</texto><hijos>82,83,84</hijos><padre>61</padre><siz>0</siz><negcur>000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>82</ref><texto>necesariamente 
+se relacionan por
+el sentido</texto><hijos /><padre>72</padre><siz>0</siz><negcur>00000000000000000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>83</ref><texto>se separan por coma, 
+punto y coma o dos puntos</texto><hijos>90</hijos><padre>72</padre><siz>0</siz><negcur>00000000000000000000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>84</ref><texto>comparten la 
+misma
+entonación</texto><hijos /><padre>72</padre><siz>0</siz><negcur>000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>90</ref><texto>por ejemplo</texto><hijos>a0</hijos><padre>83</padre><siz>0</siz><negcur>00000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>a0</ref><texto>· Irán al cine, comerán helado,
+  comprarán un regalo...
+· Santiago corrió muy rápido;
+  obtuvo el primer lugar.
+· Llegará tarde: se reporta
+  mucho tráfico en la autopista.</texto><hijos /><padre>90</padre><siz>0</siz><negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>32</ref><texto /><hijos>42</hijos><padre>22</padre><siz>0</siz><negcur /><cen>1</cen><img /><audio /></objeto><objeto><ref>42</ref><texto>La coma</texto><hijos>52</hijos><padre>32</padre><siz>0</siz><negcur>0000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>52</ref><texto>se utiliza para</texto><hijos>62</hijos><padre>42</padre><siz>0</siz><negcur>000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>62</ref><texto>· delimitar un inciso
+· elidir un verbo
+· separar el vocativo en
+  una oración</texto><hijos>73</hijos><padre>52</padre><siz>0</siz><negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>73</ref><texto>por ejemplo</texto><hijos>85</hijos><padre>62</padre><siz>0</siz><negcur>00000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>85</ref><texto>· El Amazonas, el río más
+  caudaloso del mundo,
+  tiene 6.800 kilómetros de 
+  longitud.
+· Yo soy cantante y ella, actriz.
+· Camila, recuerda cerrar
+  con llave tu casillero.</texto><hijos /><padre>73</padre><siz>0</siz><negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>33</ref><texto /><hijos>43</hijos><padre>23</padre><siz>0</siz><negcur /><cen>1</cen><img /><audio /></objeto><objeto><ref>43</ref><texto>El informe científico</texto><hijos>53,54</hijos><padre>33</padre><siz>0</siz><negcur>000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>53</ref><texto>se propone</texto><hijos>63</hijos><padre>43</padre><siz>0</siz><negcur>0000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>63</ref><texto>dar a conocer las
+conclusiones que 
+se han obtenido
+sobre un
+experimento o 
+una investigación</texto><hijos>74</hijos><padre>53</padre><siz>0</siz><negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>54</ref><texto>se estructura en</texto><hijos>64</hijos><padre>43</padre><siz>0</siz><negcur>0000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>64</ref><texto>· formulación del problema
+· objetivos
+· exposición del método que
+  se llevará a la práctica
+· descripción de equipos
+  empleados
+· discusión
+· resultados o conclusiones</texto><hijos>75</hijos><padre>54</padre><siz>0</siz><negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>74</ref><texto>para lo cual</texto><hijos>86</hijos><padre>63</padre><siz>0</siz><negcur>000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>86</ref><texto>· se emplean tecnicismos
+· se utiliza un lenguaje objetivo
+· se presentan tablas, gráficas
+  e imágenes</texto><hijos>91</hijos><padre>74</padre><siz>0</siz><negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>91</ref><texto>además puede</texto><hijos>a1</hijos><padre>86</padre><siz>0</siz><negcur>000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>a1</ref><texto>· incluir sugerencias
+· motivar a los lectores a 
+  continuar investigando
+  sobre el tema</texto><hijos /><padre>91</padre><siz>0</siz><negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto><objeto><ref>75</ref><texto>presenta elementos
+como</texto><hijos>87</hijos><padre>64</padre><siz>0</siz><negcur>00000000000000000000000</negcur><cen>1</cen><img /><audio /></objeto><objeto><ref>87</ref><texto>· portada
+· tabla de contenido
+· bibliografía</texto><hijos /><padre>75</padre><siz>0</siz><negcur>000000000000000000000000000000000000000000000</negcur><cen>0</cen><img /><audio /></objeto></mapa>

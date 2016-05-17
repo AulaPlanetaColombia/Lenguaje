@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-5DA8E8F7D04D40788CCEA9D5DE9B9403</identificador>
+  <loid>LE_09_05_CO_Recurso250</loid>
+  <titulo>Los informes científicos y sus partes</titulo>
+  <descripcion>Actividad para comprender las características de los informes científicos
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>30</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_3_3</descriptor>
+    <descriptor>1_2_1</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>características del informe científico</concepto>
+    <concepto>estructura del informe científico</concepto>
+    <concepto>informe científico</concepto>
+    <concepto>comprensión textual</concepto>
+  </conceptos>
+</metadata>

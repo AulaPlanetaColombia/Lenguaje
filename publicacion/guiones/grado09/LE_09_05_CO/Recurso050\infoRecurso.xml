@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-251A08A3D41D486CA5D147CC2DE5D2F8</identificador>
+  <loid>LE_09_05_CO_Recurso050</loid>
+  <titulo>Comprensión textual: el informe científico</titulo>
+  <descripcion>Actividad que permite jerarquizar las partes de un informe científico</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_2_1</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>informe científico</concepto>
+    <concepto>comprensión textual</concepto>
+    <concepto>estructura del informe científico</concepto>
+    <concepto>partes del informe científico</concepto>
+  </conceptos>
+</metadata>

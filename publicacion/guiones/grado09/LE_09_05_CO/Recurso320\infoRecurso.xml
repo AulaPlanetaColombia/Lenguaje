@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-C6008C73179344858B6800252A2A4E3A</identificador>
+  <loid>LE_09_05_CO_Recurso320</loid>
+  <titulo>Las oraciones compuestas y sus clases</titulo>
+  <descripcion>Actividad que permite distinguir las diferentes clases de oraciones compuestas</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>oración compuesta</concepto>
+    <concepto>subordinación</concepto>
+    <concepto>coordinación</concepto>
+    <concepto>yuxtaposición</concepto>
+    <concepto>oración compuesta por yuxtaposición</concepto>
+  </conceptos>
+</metadata>

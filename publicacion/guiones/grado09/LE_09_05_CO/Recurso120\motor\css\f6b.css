@@ -1,0 +1,142 @@
+﻿.MainTitle {
+    text-align: center;
+    font-size: 34px;
+    vertical-align: middle;
+    line-height: 100px;
+		background-color: transparent;
+    overflow: hidden;
+}
+
+.MainBk {
+    background-color: white;
+}
+
+
+.popupPie {
+		text-align: center;
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 20px;
+}
+
+.popupCloseButton {
+    background: transparent url("../images/btnclose35.png") no-repeat;
+}
+
+.popupOpenButton {
+    background: transparent url("../images/btnopen35.png") no-repeat;
+}
+
+.slideTitle {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.slideFooter {
+	text-align: center;
+}
+
+.slideFooter span {
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #cccccc;
+	padding-top: 4px;
+	padding-bottom: 3px;
+}
+
+.imageBordered {
+	border: 1px solid black;
+  -ms-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.imageBordered {
+		border: 2px solid black;
+	}
+}
+
+.menuItemFooter {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.pageTitle {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 28px;
+}
+
+.popupTestBk {
+	background: white url("../images/f6b_preg_fondo.png") no-repeat;
+}
+
+.popupTestTitle {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 25px;
+}
+
+.popupRespBkTrans {
+	background-color: rgba(0,0,0,0.2);
+}
+
+.popupRespBk {
+	background-color: white;
+	border: 1px solid black;
+
+  -ms-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+
+	-webkit-border-radius: 8px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 8px; /* Firefox 1-3.6 */
+	border-radius: 8px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.popupRespBk {
+		border: 2px solid black;
+	}
+}
+
+.popupRespText {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 30px;
+}
+
+
+.popupTestAnswer {
+	background: transparent url("../images/f6b_resp_off.png") no-repeat;
+	background-position: left bottom;
+	padding-left: 47px;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 22px;
+	color: black;
+}
+
+.popupTestAnswer.active {
+	background: transparent url("../images/f6b_resp_on.png") no-repeat;
+	background-position: left bottom;
+	color: black;
+}
+
+.popupTestAnswer.correcta {
+	background: transparent url("../images/f6b_resp_ok.png") no-repeat;
+	background-position: left bottom;
+	color: #41A62A;
+}
+
+.popupTestAnswer.incorrecta {
+	background: transparent url("../images/f6b_resp_ko.png") no-repeat;
+	background-position: left bottom;
+	color: #E1001A;
+}
+
+/*SOBRECARGA tlfText*/
+.tlfText p {
+	line-height: normal;
+}

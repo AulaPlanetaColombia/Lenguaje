@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-F338D35136624159AF5F54EA72CF1C4F</identificador>
+  <loid>LE_09_05_CO_Recurso180</loid>
+  <titulo>Refuerza tu aprendizaje: La oración compuesta por yuxtaposición </titulo>
+  <descripcion>Actividad que permite sintetizar las características de la oración compuesta por yuxtaposición
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>40</tiempoestimado>
+  <acciondidactica>Preguntas con respuesta libre</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_3_5</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>compuesta</concepto>
+    <concepto>conjunción</concepto>
+    <concepto>conjunción adversativa</concepto>
+    <concepto>conjunción copulativa</concepto>
+    <concepto>conjunción distributiva</concepto>
+    <concepto>conjunción explicativa</concepto>
+    <concepto>coordinación</concepto>
+    <concepto>coordinada</concepto>
+    <concepto>nexo</concepto>
+    <concepto>oración</concepto>
+    <concepto>yuxtaposición</concepto>
+    <concepto>yuxtapuesta</concepto>
+  </conceptos>
+</metadata>

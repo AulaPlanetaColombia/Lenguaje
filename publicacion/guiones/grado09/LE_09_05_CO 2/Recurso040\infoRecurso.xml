@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-89284FC42CB842639C55A50475249C82</identificador>
+  <loid>LE_09_05_CO_Recurso040</loid>
+  <titulo>Ortografía: la coma en incisos, en vocativos y en la elisión de verbos</titulo>
+  <descripcion>Actividad para relacionar los usos de la coma con sus funciones.</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>usos de la coma</concepto>
+    <concepto>signos de puntuación</concepto>
+    <concepto>coma en incisos</concepto>
+    <concepto>vocativo</concepto>
+    <concepto>vocativos</concepto>
+    <concepto>coma en vocativos</concepto>
+    <concepto>coma para elidir verbos</concepto>
+    <concepto>elisión del verbo</concepto>
+  </conceptos>
+</metadata>

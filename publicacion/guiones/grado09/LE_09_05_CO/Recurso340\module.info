@@ -1,0 +1,9 @@
+[module]
+id=m12a
+desc=Motor M12a
+aprid=m12a
+version=1.0
+folder=motor
+entrypoint=principal.html
+dependencies=
+

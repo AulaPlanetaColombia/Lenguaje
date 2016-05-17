@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-1D93552FAEDA458D8F84B3A6A74909DF</identificador>
+  <loid>LE_09_05_CO_Recurso020</loid>
+  <titulo>Gramática: las oraciones compuestas por yuxtaposición</titulo>
+  <descripcion>Actividad para distinguir oraciones compuestas sin enlaces</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>25</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_1_3</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>complemento</concepto>
+    <concepto>oración compuesta</concepto>
+    <concepto>oración compuesta por yuxtaposición</concepto>
+    <concepto>oraciones yuxtapuestas</concepto>
+    <concepto>proposiciones</concepto>
+    <concepto>sujeto</concepto>
+    <concepto>verbo</concepto>
+  </conceptos>
+</metadata>

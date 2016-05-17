@@ -1,0 +1,9 @@
+[module]
+id=m13b
+desc=Motor M13b
+aprid=m13b
+version=1.0
+folder=motor
+entrypoint=principal.html
+dependencies=
+

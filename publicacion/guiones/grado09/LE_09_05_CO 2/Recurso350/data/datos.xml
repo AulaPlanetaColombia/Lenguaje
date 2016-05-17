@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?><motor tipo="101" clase="ap" aprid="m101ap">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Banco de actividades</titulo>
+    <volumen/>
+    <nivel>3</nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza las actividades. Cuando concluyas, haz clic en enviar para que tu docente pueda validar tu trabajo.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="36">
+    <pregunta>
+      <enunciado><![CDATA[Menciona tres rasgos que emparenten el Posmodernismo con el Romanticismo latinoamericano y otros tres que los diferencien. Luego, realiza el mismo ejercicio para comparar el Posmodernismo y el movimiento que le precedió.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Lee el siguiente poema del venezolano Andrés Eloy Blanco. Luego, compáralo con otro poema posmodernista que conozcas. Identifica rasgos comunes y elementos que los diferencien. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}Casiquiare{{normal}}Ciudadano venezolano,               Casiquiare es la mano abierta del Orinocoy el Orinoco es el alma de Venezuela,que le da al que no pide el agua que le sobray al que venga a pedirle, el agua que le queda.Casiquiare es el símbolo                            de ese hombre de mi pueblo                     que lo fue dando todo, y al quedarse sin nada           desembocó en la Muerte, grande como el Océano.           ]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Consulta acerca del ensayo {{cur}}La raza cósmica{{normal}}, de José Vasconcelos, y lee algunos de sus pasajes. Luego, explica si el ensayo del mexicano puede ser un ejemplo que sustente la siguiente afirmación. Justifica tu respuesta.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[El ensayo posmodernista partió de la reflexión acerca de la identidad latinoamericana fundada en el {{cur}}Ariel{{normal}}, de José Enrique Rodó. Sin embargo, en algunas de sus expresiones, la identidad que se defendió partió de conceptos conflictivos que hicieron apuntar a gran parte del pensamiento latinoamericano hacia la defensa del totalitarismo y los regímenes dictatoriales, en contravía del espíritu Modernista.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Compara las propiedades de las oraciones compuestas por yuxtaposición con las coordinadas y las subordinadas. Luego, escribe cuál de esas oraciones compuestas permite enlazar más significados para enriquecer un texto. Justifica tu respuesta con algunos ejemplos.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Identifica las oraciones compuestas por yuxtaposición en la siguiente nota biográfica sobre la poetisa posmodernista Delmira Agustini. Explica cómo se relacionan las proposiciones. Responde: ¿cómo son las demás oraciones compuestas del texto?, ¿qué clases de enlaces las unen?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}Agustini, Delmira{{normal}} (Uruguay). Nació en Montevideo en 1886, en un hogar de la clase media; una madre autoritaria parece haberle condicionado el carácter; por un lado conservó toda su vida conductas pueriles, y por otro escribió desde niña poemas de sorprendente audacia (que el padre, según cuentan, le pasaba en limpio sin entender). En 1907 apareció su primer libro, {{cur}}El libro blanco{{normal}}. El segundo, {{cur}}Cantos de la mañana{{normal}}, es de 1910. Y en 1913, {{cur}}Los cálices vacíos{{normal}}, antología de los dos anteriores con algunos poemas nuevos, y un prólogo de Rubén Darío, consagró a la Agustini como la poetisa erótica de la generación del 900.César Aira, {{cur}}Diccionario de autores latinoamericanos{{normal}}. Buenos Aires: Emecé Editores, 2001.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Lee nuevamente el fragmento de la nota biográfica de Delmira Agustini e identifica las comas que se emplean para separar incisos. Elabora una lista con esos incisos.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Con base en la siguiente información, escribe un texto narrativo breve en el que emplees la coma para separar vocativos, marcar incisos y aquella que se usa para elidir un verbo.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[- En la narración hay dos personajes.- Un personaje trabaja en una oficina de arquitectos.- El otro personaje necesita los servicios de un arquitecto.- Su encuentro tiene lugar en las horas de la mañana.- Por una llamada telefónica realizada el día anteiror, cada personaje conoce el nombre del otro.- Debe haber más de un diálogo.- El personaje que trabaja en la oficina le describe algunos procesos para cerrar el acuerdo.- El otro personaje explica que necesita los servicios de un arquitecto porque una pared de su casa se está agrietando.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Con base en el siguiente resumen de un informe científico, escribe una serie de argumentos que sirvan para justificar el trabajo descrito.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[En este artículo hago una crítica a la noción de narrador omnisciente desde planteamientos de la semiótica discursiva, lo que me lleva a distinguir tres roles cognitivos: observador, sabedor, informador. Provisto de estas distinciones, acto seguido analizo y reformulo el concepto de perspectiva narrativa de Gérard Genette y sus tres articulaciones: focalización cero, interna y externa. Al final ilustro estos procedimientos de regulación cognitiva mediante el análisis de pasajes tomados de diversas novelas.Eduardo Serrano Orejuela, {{cur}}El narrador y sus saberes{{normal}}. En:  {{cur}}Revista poligramas{{normal}}, Universidad del Valle. Número 41, diciembre de 2015.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Con base en el resumen del informe anterior, escribe tres temas para realizar una investigación científica sobre poesía y teatro.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Elige uno de los temas que listaste y escribe una breve justificación de la investigación. Recuerda que debes apoyarte en algunas fuentes bibliográficas que te permitan adelantar el trabajo.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica cómo se retorna a las raíces y las tradiciones hispánicas en el siguiente poema.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}La confesión del inca {{normal}}
+─“Sol, padre fiel de mis padres, 
+a ti me acuso contrito: 
+oye, y lava mi pecado: 
+di veneno al hijo mío".
+
+Dice el Inca; vuelve el paso 
+a las márgenes del Tingo, 
+lava su frente y sus manos, 
+y prosigue en alto grito:
+
+─"Dije al Sol mi enorme crimen, 
+recibe el crimen, oh río: 
+ve, y sepúltale en el fondo 
+de los mares cristalinos”.
+
+
+X
+X
+X
+x
+x
+x
+x
+x
+x
+x
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Octavio Paz afirma que el Posmodernismo no se opuso al Modernismo sino que destaca algunos de sus principios y evita otros: "Al despojarlo de sus adherencias sentimentales y parnasianas, lo redime, le otorga conciencia de sí mismo y de su oculta significación”. ¿Estás de acuerdo con esta apreciación sobre el Modernismo y el Posmodernismo?, ¿por qué?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Lee un cuento de Horacio Quiroga y otro, de Edgar Allan Poe. Luego, determina algunos aspectos que se presenten en ambos cuentos y que denoten la influencia del escritor estadounidense en la obra de Quiroga. Por ejemplo, el recurso del simbolismo, la combinación de la realidad y la ficción, los finales sorpresivos, la pregunta por lo irracional, el tema de la muerte, etc.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}Cuentos de Edgar Allan Poe{{normal}}:
+El gato negro
+Berenice
+El corazón delator
+El retrato oval
+La peste negra
+
+{{neg}}Cuentos de Horacio Quiroga{{normal}}:
+El almohadón de plumas 
+La gallina degollada 
+La miel silvestre
+La meningitis y su sombra 
+Los buques suicidantes ]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Prepara una exposición sobre Abraham Valdelomar. En la exposición deberás defender la siguiente tesis: {{cur}}Valdelomar dio inicio a la renovación de las letras peruanas del siglo XX{{normal}}. Ten en cuenta que la obra del escritor abarca diferentes géneros literarios. Empieza redactando tres argumentos que sustenten esta tesis. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Consulta información sobre el {{cur}}Monumento a los zapatos viejos{{normal}} de la ciudad de Cartagena. Escribe un texto breve en el que describas esta obra. Puedes referirte al escultor, la ubicación, las dimensiones y el material en que fue elaborado. Luego, céntrate en el poema que inspiró esta escultura: {{cur}}A mi ciudad nativa{{normal}} de Luis C. López. Responde: ¿por qué el poeta relaciona la ciudad con sus zapatos viejos? ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[LE_09_05_REC130_IMG01n.png]]></imagen>
+      <ampliacion><![CDATA[LE_09_05_REC130_IMG01a.png]]></ampliacion>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Memoriza este fragmento de un poema de José Hierro y selecciona las oraciones compuestas por yuxtaposición que hay en él.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[1]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[LC_09_10_23--04B.jpg]]></imagen>
+      <ampliacion><![CDATA[LC_09_10_23--04.jpg]]></ampliacion>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Observa las siguientes oraciones e identifica las que son yuxtapuestas. Justifica los casos en los que no lo sean.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[LC_09_10_23--05B.jpg]]></imagen>
+      <ampliacion><![CDATA[LC_09_10_23--05.jpg]]></ampliacion>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Reescribe el siguiente fragmento de manera que las oraciones coordinadas se conviertan en yuxtapuestas y viceversa.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[LC_09_10_23--06B.jpg]]></imagen>
+      <ampliacion><![CDATA[LC_09_10_23--06.jpg]]></ampliacion>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Redacta una noticia breve sobre un tema actual y de tu interés. Emplea al menos tres oraciones compuestas por yuxtaposición en tu texto. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Observa la imagen y, a partir de ella, escribe tres oraciones compuestas por yuxtaposición. Explica qué tipo de relación semántica se da entre las proposiciones de cada oración: copulativa, causal, consecutiva o adversativa. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[LE_09_05_REC180_IMG01n.png]]></imagen>
+      <ampliacion><![CDATA[LE_09_05_REC180_IMG01a.png]]></ampliacion>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica si las siguientes afirmaciones son falsas o verdaderas. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[• La oración {{cur}}Irán a cenar, disfrutarán de la cena, probarán postres deliciosos...{{normal}} es yuxtapuesta. 
+• En las oraciones compuestas cuyas proposiciones se unen por medio de un enlace, ese enlace hace parte de una de las proposiciones.
+• En una oración compuesta por yuxtaposición, las proposiciones nunca son sintácticamente equivalentes.  
+• La oración yuxtapuesta {{cur}}Salió a caminar; respiró aire puro{{normal}} presenta una relación semántica copulativa. 
+
+]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica si en los siguientes párrafos se emplean comas para separar incisos. Transcribe los fragmentos en los cuales se introducen esas comas. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}El 'oso' de usar anglicismos en la oficina para descrestar{{normal}}
+{{cur}}A causa de la globalización y el esnobismo, el lenguaje cotidiano se llenó de expresiones rebuscadas.{{normal}}
+
+Una de las consecuencias no previstas de la globalización es la paulatina transformación del castellano. Cada vez son más los que, pese a dominar la lengua de Cervantes, ven la necesidad de asistir a reuniones de trabajo con un diccionario español-inglés bajo el brazo, como tabla de salvación para no naufragar en un mar de términos alquilados de la lengua de Shakespeare. Otras veces, y no pocas, se trata de híbridos esperpénticos, que harían convulsionar a dúo a Cervantes y a Shakespeare.
+
+El fenómeno se presenta con mayor intensidad en ambientes como los de la publicidad y las demás industrias que son tan creativas como digitales. No es nuevo ni Colombia es el único país donde ocurre, es bueno advertirlo, así como que hace cien años pasaba lo mismo, pero con el francés como origen predominante de los extranjerismos. Hoy seguimos viviendo en una sociedad esnobista, de ADN "aspiracional". 
+]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Determina si la afirmación es verdadera o falsa. Justifica tu respuesta. 
+En el fragmento se emplea la coma del vocativo cuando se hace referencia a Daniel Samper y Roberto Palacio. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[“Los extranjerismos son bienvenidos cuando nombran un objeto que carece de designación en español. Lo inaceptable es cuando desplazan sólidas palabras castellanas. Es un crimen de lesa lengua llamar ‘bullying’ al viejo matoneo”, comenta el periodista Daniel Samper Pizano, miembro de la Academia Colombiana de la Lengua.
+
+Roberto Palacio, filósofo y escritor, cree que con el uso de estos términos se busca darle una nueva aura a lo viejo. “Como los ‘muffins’: hoy nadie lo va a invitar a uno a comerse unas magdalenas”, explica. Él encuentra que su origen está muy ligado a los ‘booms’ tecnológicos y cree que al utilizarlos muchos buscan proyectar “una sombra de poder” sobre su interlocutor.
+
+Para Samper, en más de un caso existe “una voluntad expresa de desprestigiar el español”. Ejemplo de esto, afirma, es el norte de Bogotá, “lleno de avisos en inglés: ‘Home delivery’, ‘After hours’, ‘Free drinks’, etc. Lo que se pretende es dar al negocio un aire de sofisticación chimbo y cobrar mucho más caro las mercancías”.]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Determina qué regla del uso de la coma se ejemplifica en los versos de Vicente Huidobro. Luego, añade una estrofa en la que continúes aplicando esa regla sobre la coma. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}El espejo de agua{{normal}}
+
+Mi espejo, corriente por las noches,              
+se hace arroyo y se aleja de mi cuarto.        
+
+Es un estanque verde en la muralla             
+y en medio duerme tu desnudez anclada.              
+
+Sobre sus olas, bajo cielos sonámbulos,           
+mis ensueños se alejan como barcos.                    
+
+De pie en la popa siempre me veréis cantando.               
+Una rosa secreta se hincha en mi pecho                         
+y un ruiseñor ebrio aletea en mi dedo.                        ]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Observa la imagen y redacta un diálogo entre los personajes. Incluye oraciones en las que utilices la coma para separar vocativos. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen><![CDATA[LE_09_05_REC230_IMG01n.png]]></imagen>
+      <ampliacion><![CDATA[LE_09_05_REC230_IMG01a.png]]></ampliacion>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Analiza en los siguientes títulares de prensa el uso de la coma elíptica. Luego, reescríbelos reemplazándola por un verbo. Observa el ejemplo. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[- Colombianos, a los Juegos Olímpicos de Río 
+Colombianos rumbo a los Juegos Olímpicos de Río
+- {{cur}}Spotlight{{normal}} ganó el Óscar a mejor película e Iñárritu, el de mejor director
+- Nairo Quintana, el desportista del año
+- Pereira, hoy sin aeropuerto
+- Shakira, a ritmo de cumbia]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica a qué parte de un informe corresponden estos apartados. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}El jabón{{normal}}
+Prácticamente el único jabón que se consume hoy en día es el jabón de tocador. La ventaja que tienen los detergentes sobre los jabones ordinarios, aparte de su mayor poder limpiador, es que no producen depósitos, incluso en aguas duras, ya que sus sales de calcio y magnesio no precipitan, a diferencia de los jabones, que forman precipitados debido a que sus iones carboxilato reaccionan con los iones calcio y magnesio.
+{{neg}}• Química del jabón{{normal}}
+Los ácidos grasos por excelencia que se encuentran en las grasas utilizadas para fabricar jabón son los ácidos palmítico, esteárico y oleico. Estos ácidos se encuentran en las grasas animales y vegetales en forma de ésteres glicéricos denominados palmitina, estearina yoleína, respectivamente. Todas las grasas son ésteres glicéricos de ácidos grasos, pueden ser sólidos o líquidos y, según su consistencia, se les llama mantecas, sebos o aceites. La reacción típica de saponificación consiste en la hidrólisis de una grasa (éster glicérico, RCOO—CH2—CH(OOCR')—CH2—OOCR'') con hidróxido de sodio (NaOH) para obtener glicerina (CH2OH—CHOH—CH2OH) y jabón (R—COO−Na+, R'—COO−Na+, R''—COO−Na+). 
+]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Imagina que te solicitan acompañar el siguiente apartado del informe con una ilustración. ¿Qué ilustrarías?, ¿por qué?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[• {{neg}}Química del jabón{{normal}}
+Los ácidos grasos por excelencia que se encuentran en las grasas utilizadas para fabricar jabón son los ácidos palmítico, esteárico y oleico. Estos ácidos se encuentran en las grasas animales y vegetales en forma de ésteres glicéricos denominados palmitina, estearina yoleína, respectivamente. Todas las grasas son ésteres glicéricos de ácidos grasos, pueden ser sólidos o líquidos y, según su consistencia, se les llama mantecas, sebos o aceites. La reacción típica de saponificación consiste en la hidrólisis de una grasa (éster glicérico, RCOO—CH2—CH(OOCR')—CH2—OOCR'') con hidróxido de sodio (NaOH) para obtener glicerina (CH2OH—CHOH—CH2OH) y jabón (R—COO−Na+, R'—COO−Na+, R''—COO−Na+). 
+]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Escribe cuatro hechos a los cuales se haga referencia en este apartado del informe. 
+]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[{{neg}}Algunos tipos de jabón y sus usos{{normal}}
+Las diferencias fundamentales entre unos jabones y otros están en los distintos aditivos que se añaden en el proceso de fabricación, pero también influye en sus propiedades el tipo de grasa o aceite usado. Algunos jabones se emplean para fines específicos, como el jabón de tocador, que es fino y perfumado, usado para la higiene personal; el jabón de plomo, usado en medicina para cataplasmas; el jabón de aluminio, utilizado para impermeabilizar telas; el jabón medicinal o de Venecia, hecho con aceite de almendras y soda cáustica y que se presenta desecado en polvo. El jabón también se fabrica en forma de pasta de jabón, en polvo y en escamas cuyas composiciones están reguladas.
+]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Determina a qué clase de informe corresponden los fragmentos que leíste. 
+• {{neg}}Interpretativo{{normal}}. Se caracteriza por analizar los hechos que se exponen.
+• {{neg}}Expositivo{{normal}}. Presenta una serie de hechos y alude a la forma como se relacionan. 
+• {{neg}}Demostrativo{{normal}}. Justifica un análisis o comprueba una hipótesis. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Elabora una lista de ocho tecnicismos que se empleen en los fragmentos del informe. Luego, define cada uno de ellos. 
+]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Elige un tema para desarrollar un informe científico descriptivo. Recuerda cuál es el propósito y la estructura de esta clase de textos. ]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto><![CDATA[- Las consecuencias del consumo de tabaco
+- Tratamientos contra el sida
+- Los ecosistemas de los humedales 
+- El virus del zika ]]></texto>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Explica cuáles son las tres preguntas que siempre deben tenerse en cuenta para determinar la intención comunicativa de un informe científico.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Recuerda que un informe científico tiene ciertas características textuales; tales características permiten clasificarlos en tres clases concretas. Menciona esas tres clases.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Consulta dos fuentes en internet y tres fuentes físicas que sirvan para escribir un informe científico acerca de la influencia de la literatura en el cine. Luego, ordena los datos bibliográficos siguiendo las normas APA.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Con base en las fuentes que consultaste, escribe la introducción y las palabras clave de tu informe científico.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

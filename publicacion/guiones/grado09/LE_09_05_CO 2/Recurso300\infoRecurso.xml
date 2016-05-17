@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-ED87FF1496E04861A86F20FB8F26CE11</identificador>
+  <loid>LE_09_05_CO_Recurso300</loid>
+  <titulo>Refuerza tu aprendizaje: Escribe un informe científico</titulo>
+  <descripcion>Actividad para reflexionar acerca de la escritura de informes científicos</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>90</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en comunicación lingüística</competencia>
+  <competencias>
+    <descriptor>1_3_3</descriptor>
+    <descriptor>1_1_4</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>clasificación</concepto>
+    <concepto>informe científico</concepto>
+    <concepto>intención comunicativa</concepto>
+    <concepto>palabras clave</concepto>
+    <concepto>producción textual</concepto>
+  </conceptos>
+</metadata>
